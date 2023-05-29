@@ -93,7 +93,7 @@ const Modal: React.FC<ModalProps> = ({
               {/* FOOTER */}
               <div className="flex flex-col gap-2 p-6">
                 <div className="flex flex-row items-center w-full gap-4">
-                  <Button outline label="My Button" />
+                  <Button label="My Button" />
                 </div>
               </div>
             </div>
